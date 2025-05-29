@@ -2,7 +2,7 @@ import requests
 import time
 
 # === Configurare Telegram ===
-TELEGRAM_TOKEN = 'AICI_PUI_TOKENUL_TAU'
+TELEGRAM_TOKEN = '7779933357:AAG0Nl33rWG0U_KRSvJd2ltBL0NjpnPCaZk'
 CHAT_ID = '5308384382'
 
 # === Lista monede și limite în USDT ===
